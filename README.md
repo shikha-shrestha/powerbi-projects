@@ -3,7 +3,7 @@
 Power BI reports built during my MS in Business Analytics (Webster University).
 Each project includes the .pbix source file and a PDF preview of the report pages.
 
-📊 **Also see my [Tableau Portfolio](https://public.tableau.com/app/profile/shikha.shrestha8821)** | [LinkedIn](https://www.linkedin.com/in/shikha-shrestha-2755b8309/)
+📊 **Also see my [Tableau Portfolio](https://public.tableau.com/app/profile/shikha.shrestha8821)** | [LinkedIn](https://www.linkedin.com/in/shikha-shrestha-tx/)
 
 ---
 
